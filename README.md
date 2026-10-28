@@ -80,12 +80,6 @@ O banco de dados possui **11 tabelas**.
 
 Os relacionamentos N:M são implementados por meio das tabelas associativas `itens_treino` e `aluno_modalidade_preferida`.
 
-### 4.3. Diagrama da modelagem
-
-Salve a imagem do diagrama lógico na pasta `docs/`, com o nome `modelagem.png`.
-
-![Diagrama lógico do banco de dados AuraFit](docs/modelagem.png)
-
 ## 5. Formas normais
 
 - **1FN — Primeira Forma Normal:** cada campo armazena um único valor. Por isso, os telefones são separados na tabela `telefones_aluno`.
