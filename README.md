@@ -18,8 +18,6 @@ Projeto acadêmico de banco de dados relacional para gerenciar alunos, planos, m
 7. [Consultas SQL](#7-consultas-sql)
 8. [Testes](#8-testes)
 9. [Dump do banco](#9-dump-do-banco)
-10. [Estrutura do repositório](#10-estrutura-do-repositório)
-11. [Entrega](#11-entrega)
 
 ---
 
